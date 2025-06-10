@@ -29,7 +29,7 @@ This project implements and compares various background subtraction techniques f
 - Python 3.x
 - OpenCV
 - NumPy
-- 
+  
  # How to Run
  
 1. Clone the repository

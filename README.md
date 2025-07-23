@@ -1,4 +1,7 @@
 <img width="1361" height="411" alt="Screenshot 2025-07-23 155541" src="https://github.com/user-attachments/assets/0b9e8f1a-249e-4ba4-8b92-c054aac9e1fa" />
+
+
+
 # Background Subtraction – Digital Image Processing
 
 This project implements and compares various background subtraction techniques for motion detection in video sequences or image streams. These methods help detect moving objects by separating the dynamic foreground from the static background.
